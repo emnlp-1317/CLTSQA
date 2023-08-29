@@ -1,0 +1,4 @@
+name: cltsqa
+train_file: CLTSQA-Data/train/cltsqa_subset1.json
+dev_file: CLTSQA-Data/dev/dev_subset1.json
+test_file: CLTSQA-Data/test/test_subset1.json
