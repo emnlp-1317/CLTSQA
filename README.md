@@ -4,7 +4,7 @@
 
 Welcome to the CLTSQA project! We provide the training and testing data through the following anonymous links:
 
-**Dataset Link:** [Link](dataset_link_here)
+**Dataset Link:** [Link](https://drive.google.com/file/d/1n5MaspeiIv2pNDgk2UjaJIEvkvHD3BE7/view?usp=drive_link)
 
 ## Usage
 
