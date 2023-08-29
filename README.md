@@ -1,8 +1,8 @@
-# CL-TSQA
+# CLTSQA
 
 ## EMNLP-1317
 
-Welcome to the CL-TSQA project! We provide the training and testing data through the following anonymous links:
+Welcome to the CLTSQA project! We provide the training and testing data through the following anonymous links:
 
 **Dataset Link:** [Link](dataset_link_here)
 
