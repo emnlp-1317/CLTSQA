@@ -1,6 +1,6 @@
 # CLTSQA
 
-## EMNLP-1317
+## Coling
 
 Welcome to the CLTSQA project! We provide the training and testing data through the following anonymous links:
 
