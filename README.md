@@ -1,6 +1,6 @@
 # CLTSQA
 
-## Coling
+## IJCNN
 
 Welcome to the CLTSQA project! We provide the training and testing data through the following anonymous links:
 
